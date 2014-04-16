@@ -11,6 +11,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternalService", "InternalService\InternalService.csproj", "{A963213B-9DCB-43E0-8661-6965BEA21E29}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheDrillDaemon", "TheDrillDaemon\TheDrillDaemon.csproj", "{54974F4A-5BAB-4749-AAB5-6FB7A32FA61F}"
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheDrill-Backend", "TheDrill-Backend\TheDrill-Backend.csproj", "{E08E8646-A4DC-4EAF-B0B2-BB214E5EEE17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +30,10 @@ Global
 		{54974F4A-5BAB-4749-AAB5-6FB7A32FA61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54974F4A-5BAB-4749-AAB5-6FB7A32FA61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54974F4A-5BAB-4749-AAB5-6FB7A32FA61F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E08E8646-A4DC-4EAF-B0B2-BB214E5EEE17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E08E8646-A4DC-4EAF-B0B2-BB214E5EEE17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E08E8646-A4DC-4EAF-B0B2-BB214E5EEE17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E08E8646-A4DC-4EAF-B0B2-BB214E5EEE17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
